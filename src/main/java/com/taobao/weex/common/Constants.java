@@ -223,6 +223,7 @@ public class Constants {
         String DIRECTION_UP = "up";
         String DIRECTION_DOWN = "down";
         String NUMBER = "number";
+        String NUMBERDECIMAL = "decimal";
 
         String NONE = "none";
         String DEFAULT = "default";
